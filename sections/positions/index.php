@@ -7,7 +7,7 @@
 
 
   <div class="card-header">
-    <a class="btn btn-secondary" href="sections/positions/create.php">New position</a>
+    <a class="btn btn-secondary" href="sections/positions/create.php">New position (from Github)</a>
   </div>
 
   <div class="card-body">
